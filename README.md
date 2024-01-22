@@ -84,15 +84,10 @@
   <div align="center">
     <div>
       <a href="https://github.com/Joao-M0r3tt1">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-M0r3tt1&show_icons=true&theme=react&include_all_commits=true&count_private=true&rank_icon=github&border_radius=20"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-M0r3tt1&layout=compact&langs_count=16&theme=react&border_radius=10"/>
+        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Joao-M0r3tt1&show_icons=true&theme=react&include_all_commits=true&count_private=true&rank_icon=github"/>
+        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-M0r3tt1&layout=compact&langs_count=16&theme=react"/>
       </a>
     </div>
-    <br>
-    <div>
-      <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=500&color=1BBDFF&background=6281AE00&center=true&vCenter=true&multiline=true&random=false&width=310&height=100&lines=%E2%9A%A1Software+Engineering+;%E2%9A%A1Information+Security+;%E2%9A%A1Analysis+and+Systems+Development+;%E2%9A%A1Programming+" alt="Typing SVG" /></a>
-<!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=Joao-M0r3tt1&theme=react-dark&bg_color=20232a&hide_border=true" width="60%"/> -->
-  </div>
 </details>
 
 ##
