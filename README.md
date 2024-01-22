@@ -57,7 +57,7 @@
       <img align="center" alt="Joao-Team_work" src="https://img.shields.io/badge/skill-Team_work-blue">
       <img align="center" alt="Joao-Resilient" src="https://img.shields.io/badge/skill-Resilient-blue">
       <img align="center" alt="Joao-Communicative" src="https://img.shields.io/badge/skill-Communicative-blue">
-      <img align="center" alt="Joao-Continuous_learning" src="https://img.shields.io/badge/skill-Continuous_learning-blue"> <br><br><br>
+      <img align="center" alt="Joao-Continuous_learning" src="https://img.shields.io/badge/skill-Continuous_learning-blue"> <br><br>
       <img align="right" height="140" width="180" alt="Joao-Gif" src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Developer.gif">
     </div>
   </div>
