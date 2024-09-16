@@ -26,7 +26,7 @@
   <img align="right" height="140" width="180" alt="Joao-Gif" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
   <p> - I am looking to collaborate on Technology-related Projects and Research</p>
   <p> - Talk to me about Technology, Information Security, Software Engineering and Innovation</p>
-  <p>📃 <a href="./assets/resume.pdf">Resume</a></p>  
+  <p>📃 <a href="./Curriculo_JoaoVMoretti.pdf">Resume</a></p>  
 </div> 
 
 ##
