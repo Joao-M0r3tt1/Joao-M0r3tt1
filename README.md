@@ -8,25 +8,25 @@
   <details>
     <summary>Note 📝</summary>
     <p align="center">
-      Hello, 😁 
+      Hello,
       Once again it's a pleasure to welcome you to my profile!
       <br><br>
-      I am currently studying Systems Analysis and Development at the <a href="http://www.fatecsp.br/">Faculty of Technology of São Paulo - (FATEC-SP)</a> 🤓, in addition to college I am trying to improve my knowledge and seek new ones through studies, reading, courses and mainly through practice 👨‍💻
+      I am currently studying Systems Analysis and Development at the <a href="http://www.fatecsp.br/">Faculty of Technology of São Paulo - (FATEC-SP)</a>, in addition to college I am trying to improve my knowledge and seek new ones through studies, reading, courses and mainly through practice
       <br><br>
       I have knowledge in Software Engineering, Systems Architecture, Programming Languages, Algorithms, Logic, Information Security and more...
       <br> 
-      I am a dedicated person, easy to learn, communicative, flexible, innovative, resilient and eager to learn and deliver beyond expectations 🚀
+      I am a dedicated person, easy to learn, communicative, flexible, innovative, resilient and eager to learn and deliver beyond expectations
       <br><br>
-      So, thanks again for having you here and get in touch so we can brainstorm, talk and maybe even work together!!! 👋
+      So, thanks again for having you here and get in touch so we can brainstorm, talk and maybe even work together!!!
       <br><br>
     </p>
     <h1></h1>
   </details>
-  <p>🔭 I am currently looking for a job in Software Engineering</p>
+  <p> - I am currently looking for a job in Cybersecurity / Information Security and Software Engineering</p>
   <img align="right" height="140" width="180" alt="Joao-Gif" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-  <p>👯 I look to collaborate on Projects and Research related to Technology</p>
-  <p>💬 Talk to me about Technology, Software Engineering and Innovation</p>
-  <p>📃 <a href="">Resume</a></p>  
+  <p> - I am looking to collaborate on Technology-related Projects and Research</p>
+  <p> - Talk to me about Technology, Information Security, Software Engineering and Innovation</p>
+  <p>📃 <a href="./assets/resume.pdf">Resume</a></p>  
 </div> 
 
 ##
@@ -34,9 +34,10 @@
   <div>
     <div style="display: inline_block">
       <img align="center" alt="Joao-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-      <img align="center" alt="Joao-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-      <img align="center" alt="Joao-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-      <img align="center" alt="Joao-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
+      <img align="center" alt="Joao-Cplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+<!--       <img align="center" alt="Joao-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
+<!--       <img align="center" alt="Joao-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> -->
+<!--       <img align="center" alt="Joao-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"> -->
       <img align="center" alt="Joao-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
       <img align="center" alt="Joao-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
       <img align="center" alt="Joao-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
@@ -61,10 +62,10 @@
 ##
 
   <div>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/joão-victor-moretti-a778451a2" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/joão-victor-moretti-a778451a2" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/joao.v.moretti?igsh=MTd5dGZ5Z2pndGZkag==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://x.com/joao_v_moretti?t=TdMcK116Ifxio-WrkEaowQ&s=09" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<!--     <a href="https://x.com/joao_v_moretti?t=TdMcK116Ifxio-WrkEaowQ&s=09" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> -->
     <a href="https://www.discord.com/users/1075885401396477952" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-    <a href="mailto:morettijvs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="mailto:joaomorettijv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
